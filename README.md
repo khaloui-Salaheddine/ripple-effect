@@ -4,7 +4,7 @@
 
 ## 🦉 Main information
 
-Button Ripple Effect created with Html, Css and Vanilla JavaScript.
+Button Ripple Effect created with Html, Css and  JavaScript.
 
 The project goal:
 
